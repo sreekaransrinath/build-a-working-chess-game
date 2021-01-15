@@ -1,5 +1,9 @@
-# build-a-working-chess-game
-MLH Local Hack Day: Build 2021 Week-Long Challenge:  Build a Working Chess Game
+# build-a-game-simulator
+MLH Local Hack Day: Build 2021 Week-Long Challenge: Build a Game Simulator
 
 ## Task Statement
-Feeling inspired by Beth Harmon? Want to really put some of your chess and hacking skills to the test? Try building a working chess game. Make sure to submit your hack on our Week-Long Devpost so we can check(mate) your project out afterward.
+We want you to build a simulator for your favorite game. Whether you like board games, card games, sports, video games, or anything in between - we’d love to see a hack that lets you or helps you play this game. Submit your hack on our Week-Long Devpost! Bonus point if you play your game with another hacker (submit a screenshot on our Week-long Challenges Form!).
+
+# Submission
+## Chess
+Built a basic chess game with Pygame
